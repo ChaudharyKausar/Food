@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Tapestry', cursive;
 }
+html{
+scroll-behavior: smooth;    
+    }
 body{
     overflow-x: hidden;
     background-color: var(--body-color);
